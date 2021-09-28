@@ -3,8 +3,8 @@
 `print("Hello World")`
 
 My *favorite* quote is **Linus Torvalds'** 
-![Linus](https://ffrf.org/media/k2/items/cache/3dadd9c8794a754bc9dd1566107b4ffa_XL.jpg)
 > Talk is cheap. Show me the code.
+![Linus](https://ffrf.org/media/k2/items/cache/3dadd9c8794a754bc9dd1566107b4ffa_XL.jpg)
 
 
 This is my [github repository](https://github.com/YunxiaoXu/CSE110Lab1/).
